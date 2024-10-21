@@ -1,4 +1,4 @@
-Chạy file JAR để khởi chạy ứng dụng
+Chạy file JAR  để khởi chạy ứng dụng (Lưu ý phải có OpenJDK platform)
 Đăng nhập hệ thống:
   + Đầu tiên đăng nhập hệ thống với account:
       Username: admin
