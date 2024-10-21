@@ -35,10 +35,9 @@ Yêu cầu hệ thống:
 -Maven (nếu chạy từ mã nguồn)
 
 
-##Cài đặt và chạy chương trình
-Chạy chương trình từ file JAR:
 
-Tải file JAR đã được đóng gói từ thư mục nhom_baitoancanlam.
+
+
 
 *file JAR nằm trong : /quanlybaidoxe/target  có tên file là :quanlybaidoxe-1.0-SNAPSHOT.jar
 Cách 1:
